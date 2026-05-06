@@ -1,2 +1,1 @@
-# Proteomic-profiling-of-bioprosthetic-and-native-aortic-valve-proteome
-Reproducible code for data anlysis from ""
+This repository has all files that are necessary to reproduce statistical analysis of proteomics data from Kostyunin et al., 2026 ""
